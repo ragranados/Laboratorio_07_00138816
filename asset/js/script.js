@@ -35,11 +35,11 @@ btnCopy.onclick = function (evt) {
 }
 
 /*
-2. La varieble container tiene todo el elemento HTML que tiene ese id.
+1. La varieble container tiene todo el elemento HTML que tiene ese id.
 
-3. Aparece en el primer cuadro un text.
+2. Aparece en el primer cuadro un text.
 
-7.  1- Aparece en el cuadro negro un cuadro de input
+3.  1- Aparece en el cuadro negro un cuadro de input
     2- La propiedad innerHTML le agrega un elemento al elemento HTML y la propiedad inner text le agrega contenido al texto.
 
 1. La variable containers almace una coleccion de los 6 elemntos que tienen esa clase.
@@ -51,5 +51,5 @@ btnCopy.onclick = function (evt) {
 
 1.  1- Lo que hace es que el texto que esta en el input lo pone en un cuadro adelante
     2- Uno es el valor que tiene el input, que vendria siento el texto que esta en el input, y el inner le cambiar solo el contenido del 
-    texto
+    texto.
 */
